@@ -1,6 +1,6 @@
 # Hi, I'm Noha 👋
 
-Information Systems| Data Analytics & AI
+Information Systems | Data Analytics & AI
 
 ## About Me
 
