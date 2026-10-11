@@ -81,8 +81,9 @@ I'm always learning and looking for opportunities in data analytics and AI.
 <br>
 <p align="center">
   <a href="https://github.com/Noha-Aldhahri/career_compass">
-    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-24292F?style=for-the-badge&logo=github&logoColor=white"
-         alt="View Repository"/>
+    <img src="https://raw.githubusercontent.com/Noha-Aldhahri/career_compass/main/frontend/assets/logo.png"
+         width="190"
+         alt="CareerCompass Logo"/>
   </a>
 </p>
 
