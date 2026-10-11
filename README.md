@@ -56,7 +56,6 @@ I'm always learning and looking for opportunities in data analytics and AI.
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" title="CSS"/></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" title="JavaScript"/></a>&nbsp;&nbsp;
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" title="React"/></a>&nbsp;&nbsp;
-<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="Vite" title="Vite"/></a>
 </p>
 
 <h3 align="center">Cloud & Deployment</h3>
