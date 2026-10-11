@@ -74,7 +74,9 @@ I'm always learning and looking for opportunities in data analytics and AI.
 </p>
 
 
-<h2 align="center">Featured Projects</h2>
+
+
+<h2>Featured Projects</h2>
 
 <br>
 
@@ -100,8 +102,24 @@ I'm always learning and looking for opportunities in data analytics and AI.
   <img src="https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Streamlit-333333?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/LangGraph-333333?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-333333?style=flat-square" alt="LangChain"/>
   <img src="https://img.shields.io/badge/OpenAI-333333?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+
+  <br>
+
   <img src="https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/SQLModel-333333?style=flat-square" alt="SQLModel"/>
+  <img src="https://img.shields.io/badge/Alembic-333333?style=flat-square" alt="Alembic"/>
+  <img src="https://img.shields.io/badge/JWT-333333?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/PyMuPDF-333333?style=flat-square" alt="PyMuPDF"/>
+  <img src="https://img.shields.io/badge/Tavily-333333?style=flat-square" alt="Tavily"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/LangSmith-333333?style=flat-square" alt="LangSmith"/>
+  <img src="https://img.shields.io/badge/Ragas-333333?style=flat-square" alt="Ragas"/>
+  <img src="https://img.shields.io/badge/JobSpy-333333?style=flat-square" alt="JobSpy"/>
+  <img src="https://img.shields.io/badge/Freelancer%20API-333333?style=flat-square&logo=freelancer&logoColor=white" alt="Freelancer API"/>
 </p>
 
 <p align="center">
