@@ -26,7 +26,7 @@ I'm always learning and looking for opportunities in data analytics and AI.
 <h3 align="center">Data Science & Analytics</h3>
 <p align="center">
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pandas" width="50" height="50" alt="Pandas" title="Pandas"/>
+   <img src="https://cdn.simpleicons.org/pandas/150458" width="50" height="50" alt="Pandas" title="Pandas"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://numpy.org/" target="_blank">
@@ -34,7 +34,7 @@ I'm always learning and looking for opportunities in data analytics and AI.
   </a>
   &nbsp;&nbsp;
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="50" height="50" alt="Matplotlib" title="Matplotlib"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" title="Matplotlib"/> title="Matplotlib"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank">
