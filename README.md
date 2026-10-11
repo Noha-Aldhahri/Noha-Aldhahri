@@ -127,3 +127,34 @@ I'm always learning and looking for opportunities in data analytics and AI.
          alt="View Repository"/>
   </a>
 </p>
+
+
+
+
+<br>
+
+<h2>Contact Me</h2>
+
+<p align="center">
+  Open to opportunities, collaborations, and building meaningful solutions.
+</p>
+
+<br>
+
+<p align="center">
+  <a href="mailto:noha.nahar2@gmila.com">
+    <img src="https://skillicons.dev/icons?i=gmail"
+         width="55"
+         height="55"
+         alt="Email"
+         title="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/noha-nahar/">
+    <img src="https://skillicons.dev/icons?i=linkedin"
+         width="55"
+         height="55"
+         alt="LinkedIn"
+         title="LinkedIn"/>
+  </a>
+</p>
