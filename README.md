@@ -34,7 +34,7 @@ I'm always learning and looking for opportunities in data analytics and AI.
   </a>
   &nbsp;&nbsp;
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" title="Matplotlib"/> title="Matplotlib"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" title="Matplotlib"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank">
@@ -130,9 +130,7 @@ I'm always learning and looking for opportunities in data analytics and AI.
   <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" title="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.cursor.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="50" height="50" alt="Cursor" title="Cursor"/>
+ 
   </a>
   &nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank">
