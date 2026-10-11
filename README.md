@@ -72,3 +72,41 @@ I'm always learning and looking for opportunities in data analytics and AI.
 <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" title="Jupyter"/></a>&nbsp;&nbsp;
 <a href="https://colab.research.google.com/"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="50" height="50" alt="Google Colab" title="Google Colab"/></a>
 </p>
+
+
+<h2 align="center">Featured Projects</h2>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/joud-7101/career_compass">
+    <img src="https://raw.githubusercontent.com/joud-7101/career_compass/main/frontend/assets/logo.png"
+         width="190"
+         alt="CareerCompass Logo"/>
+  </a>
+</p>
+
+<h3 align="center">
+  CareerCompass — AI-Powered Career Guidance Platform
+</h3>
+
+<p align="center">
+  AI-powered career development platform that provides personalized job,
+  freelance, and certification recommendations using a multi-agent system.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-333333?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/LangGraph-333333?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/OpenAI-333333?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/joud-7101/career_compass">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-24292F?style=for-the-badge&logo=github&logoColor=white"
+         alt="View Repository"/>
+  </a>
+</p>
