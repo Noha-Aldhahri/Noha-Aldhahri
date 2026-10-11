@@ -38,12 +38,18 @@ I'm always learning and looking for opportunities in data analytics and AI.
   </a>
   &nbsp;&nbsp;
   <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank">
-    <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" height="50" alt="Power BI" title="Power BI"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" height="50" alt="Excel" title="Excel"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg"
+       width="50" height="50"
+       alt="Power BI" title="Power BI"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg"
+       width="50" height="50"
+       alt="Excel" title="Excel"/>
+</a>
   &nbsp;&nbsp;
   <a href="https://www.microsoft.com/sql-server/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL Server" title="SQL Server"/>
@@ -53,8 +59,10 @@ I'm always learning and looking for opportunities in data analytics and AI.
 <h3 align="center">AI & LLM</h3>
 <p align="center">
   <a href="https://openai.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/openai/10A37F" width="50" height="50" alt="OpenAI" title="OpenAI"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg"
+       width="50" height="50"
+       alt="OpenAI" title="OpenAI"/>
+</a>
   &nbsp;&nbsp;
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50" height="50" alt="Hugging Face" title="Hugging Face"/>
